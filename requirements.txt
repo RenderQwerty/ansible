@@ -1,0 +1,7 @@
+ansible
+ansible-lint
+apache-libcloud
+pycrypto
+yamllint
+cffi
+boto3
